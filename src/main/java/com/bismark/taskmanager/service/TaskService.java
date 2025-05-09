@@ -2,6 +2,7 @@ package com.bismark.taskmanager.service;
 
 import com.bismark.taskmanager.model.Task;
 import com.bismark.taskmanager.repository.TaskRepository;
+import lombok.Data;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
